@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "employee_name": "Sanika",
+    "employee_manager":"manager1",
+    "employee_tech": [
+      {
+        "technology": "php",
+        "proficiency": "Proffesional",
+        "profValue": 100
+      },
+      {
+        "technology": "css",
+        "proficiency": "Expert",
+        "profValue": 75
+      },
+      {
+        "technology": "js",
+        "proficiency": "Proffesional",
+        "profValue": 25
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "employee_name": "diva",
+        "employee_manager":"manager2",
+    "employee_tech": [
+      {
+        "technology": "VueJs",
+        "proficiency": "Intermediate",
+        "profValue": 50
+      },
+      {
+        "technology": "jquery",
+        "proficiency": "Proffesional",
+        "profValue": 100
+      },
+
+      {
+        "technology": "css",
+        "proficiency": "Expert",
+        "profValue": 75
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "employee_name": "dyumna",
+        "employee_manager":"manager1",
+    "employee_tech": [
+      {
+        "technology": "Html",
+        "proficiency": "Intermediate",
+        "profValue": 50
+      },
+      {
+        "technology": "jquery",
+        "proficiency": "Beginner",
+        "profValue": 25
+      },
+      {
+        "technology": "js",
+        "proficiency": "Novice",
+        "profValue": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "employee_name": "Bhima",
+        "employee_manager":"manager3",
+    "employee_tech": [
+      {
+        "technology": "Html",
+        "proficiency": "Novice",
+        "profValue": 0
+      },
+      {
+        "technology": "css",
+        "proficiency": "Beginner",
+        "profValue": 25
+      },
+      {
+        "technology": "js",
+        "proficiency": "Intermediate",
+        "profValue": 50
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "employee_name": "Aaryan",
+        "employee_manager":"manager1",
+    "employee_tech": [
+      {
+        "technology": "Html",
+        "proficiency": "Expert",
+        "profValue": 75
+      },
+      {
+        "technology": "css",
+        "proficiency": "Proffesional",
+        "profValue": 100
+      },
+      {
+        "technology": "js",
+        "proficiency": "Expert",
+        "profValue": 75
+      },
+      {
+        "technology": "angular",
+        "proficiency": "Proffesional",
+        "profValue": 100
+      }
+    ]
+  }
+]
